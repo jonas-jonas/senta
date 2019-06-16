@@ -1,6 +1,6 @@
-from senta import Senta
+import senta
 
-x = Senta()
+x = senta.load()
 
 result = x.analyze("Service was bad")
 

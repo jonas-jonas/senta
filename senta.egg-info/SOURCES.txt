@@ -1,0 +1,7 @@
+setup.py
+senta/__init__.py
+senta/senta.py
+senta.egg-info/PKG-INFO
+senta.egg-info/SOURCES.txt
+senta.egg-info/dependency_links.txt
+senta.egg-info/top_level.txt
